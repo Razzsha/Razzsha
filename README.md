@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @Razzsha. I’m all about coding! Whether it’s crafting elegant algorithms or designing beautiful web interfaces, I’m in my element.
-- 👀 I’m interested in coding! Whether it’s crafting elegant algorithms or designing beautiful web interfaces, I’m in my element.
-- 🌱 I’m currently learning to soaking up knowledge like a sponge. Right now, I’m diving deep into C/C+, HTML, CSS, JavaScript, and the magical MERN stack.
-- 💞️ I’m looking to collaborate on web designing projects, particularly those involving modern web technologies like HTML5, CSS3, JavaScript, and responsive design. I'm interested in creating intuitive, user-friendly interfaces and improving user experience.
-- 📫 How to reach me You can reach me via email at rajsah2004@outlook.com, or connect with me on  Twitter (X) at https://twitter.com/rajbabu_sa94193 . Feel free to also message me on GitHub."
-- 😄 Pronouns: Razz Sha
-- ⚡ Fun fact: Did you know that the best ideas often strike at 3 AM? My keyboard can attest to that
+# 💫 About Me:
+<br>👋 Hi, I’m @Razzsha. I’m all about coding! Whether it’s crafting elegant algorithms or designing beautiful web interfaces, I’m in my element.<br>👀 I’m interested in coding! Whether it’s crafting elegant algorithms or designing beautiful web interfaces, I’m in my element.<br>🌱 I’m currently learning to soaking up knowledge like a sponge. Right now, I’m diving deep into C/C+, HTML, CSS, JavaScript, and the magical MERN stack.<br>💞️ I’m looking to collaborate on web designing projects, particularly those involving modern web technologies like HTML5, CSS3, JavaScript, and responsive design. I'm interested in creating intuitive, user-friendly interfaces and improving user experience.<br>📫 How to reach me You can reach me via email at rajsah2004@outlook.com, or connect with me on Twitter (X) at https://twitter.com/rajbabu_sa94193 . Feel free to also message me on GitHub."<br>😄 Pronouns: Razz Sha<br>⚡ Fun fact: Did you know that the best ideas often strike at 3 AM? My keyboard can attest to that<br>
 
-<!---
-Razzsha/Razzsha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Razz Sha) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Razzsha_108) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rajbabu K. Sah) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Razz Sha) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Razzsha&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Razzsha&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Razzsha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Razzsha&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
