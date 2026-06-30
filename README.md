@@ -25,5 +25,5 @@
 
 ## Contact
 
-LinkedIn: https://linkedin.com/in/yourusername
-Email: your@email.com
+LinkedIn: https://www.linkedin.com/in/razz-sah-869b94360/
+Email: razzsha99@gmail.com
